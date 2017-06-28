@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>blueship.png</file>
+        <file>brownship.png</file>
+        <file>cyanship.png</file>
+        <file>greenship.png</file>
+        <file>magentaship.png</file>
+        <file>orangeship.png</file>
+        <file>purpleship.png</file>
+        <file>redship.png</file>
+        <file>yellowship.png</file>
+        <file>bg.png</file>
+        <file>bgdarker.png</file>
+        <file>bglighter.png</file>
+        <file>bgneutral.png</file>
+        <file>pillar.png</file>
+        <file>bluebullet.png</file>
+        <file>brownbullet.png</file>
+        <file>cyanbullet.png</file>
+        <file>greenbullet.png</file>
+        <file>magentabullet.png</file>
+        <file>orangebullet.png</file>
+        <file>purplebullet.png</file>
+        <file>redbullet.png</file>
+        <file>yellowbullet.png</file>
+    </qresource>
+</RCC>
